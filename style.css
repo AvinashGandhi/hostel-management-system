@@ -1,0 +1,32 @@
+.LoginBox{
+	box-sizing: border-box;
+	border: 1px solid grey;
+	box-shadow: 8px 8px black;
+	margin-top: -100px;
+	background-color: #fff;
+	position: relative;
+	z-index: 999;
+	margin-bottom: 20px;
+}
+.footer{
+  margin-top: 20px;
+  height: auto;
+  color: grey;
+  background-image: linear-gradient(to right,black,grey);
+  background-size: cover;
+
+}
+#foot{
+  margin-top: 20px;
+
+}
+.btn-default{
+  background-color: green;
+  width: 200px;
+  margin-bottom: 100px;
+}
+.btn-primary{
+width: 200px;
+margin-bottom: 100px;
+background-color: #23589b;
+}
